@@ -2,3 +2,5 @@
 * git branch projectV2
 * git checkout projectV2
 * (=> 한 문장으로 하려면: git checkout -b projectV2)
+
+## ProjectV2에서 변경하기
